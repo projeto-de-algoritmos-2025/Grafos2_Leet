@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a798f4ee-8808-44d3-a232-117abcb30523)# Grafos2_Leet
-
 **Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
